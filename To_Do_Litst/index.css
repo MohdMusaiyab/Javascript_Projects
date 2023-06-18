@@ -1,0 +1,11 @@
+.submit-btn{
+    background-color: gray;
+    font-weight: 500;
+    border-radius: 50px;
+}
+.submit-btn:hover{
+    transform: scale(1.2);
+}
+li{
+    list-style: none;
+}
