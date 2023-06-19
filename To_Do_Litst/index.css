@@ -9,3 +9,27 @@
 li{
     list-style: none;
 }
+.clear-btn{
+    display: none;
+}
+.show{
+    display: block;
+}
+.list-container {
+    list-style: none;
+    display: flex;
+    
+
+}
+.list-container li{
+    margin: 10px 10px;
+}
+.list-container button{
+    margin-left: 20px;
+    border-radius: 20px;
+
+}
+.list-container button:hover{
+    transform: scale(1.1);
+    background-color: aquamarine;
+}
