@@ -1,3 +1,8 @@
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(203,90,244,0.9332107843137255) 31%, rgba(0,212,255,1) 100%);
+}
+
 .submit-btn{
     background-color: gray;
     font-weight: 500;
@@ -32,4 +37,10 @@ li{
 .list-container button:hover{
     transform: scale(1.1);
     background-color: aquamarine;
+}
+h3{
+    color: wheat;
+}
+.list-container {
+    color: aliceblue;
 }
